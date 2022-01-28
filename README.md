@@ -1,7 +1,7 @@
-# {project title} ✨
+# 3D Print Gcode Model ✨
 
 ### Description
-{mini project description goes here...}
+To design a 3d printable model using gcode and fabricate it.
 
 *You are welcome to contribute to this repo. See the [**CONTRIBUTING.md**](./CONTRIBUTING.md) for more info*
 
